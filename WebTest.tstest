@@ -25,7 +25,11 @@
     "SilverlightAppOriginUri": null,
     "WpfAppPath": null,
     "UseDefaultWpfAppPath": false,
+<<<<<<< HEAD
     "TestAssembly": "TestProject118.dll",
+=======
+    "TestAssembly": "TestProject117.dll",
+>>>>>>> master
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
@@ -64,9 +68,15 @@
     "Path": "WebTest.tstest",
     "Priority": 0,
     "TestType": 0,
+<<<<<<< HEAD
     "UniqueId": "275f3cb9-43c6-4ce2-887a-9ed7c4e253d8",
     "Id": "275f3cb9-43c6-4ce2-887a-9ed7c4e253d8",
     "ProjectId": "090c753f-fcb7-440b-b3ca-3b5d8dcfa6cc",
+=======
+    "UniqueId": "d9250f2b-1f2d-44d8-9240-9ce5e403e69a",
+    "Id": "d9250f2b-1f2d-44d8-9240-9ce5e403e69a",
+    "ProjectId": "65ecd0ce-e14b-41cf-89bc-84da234bd9d0",
+>>>>>>> master
     "Version": 200
   }
 }

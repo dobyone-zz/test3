@@ -178,9 +178,27 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
+<<<<<<< HEAD
     "ProjectGuid": "090c753f-fcb7-440b-b3ca-3b5d8dcfa6cc",
     "SourceControlRepository": null,
     "IsOnline": false,
+=======
+    "ProjectGuid": "65ecd0ce-e14b-41cf-89bc-84da234bd9d0",
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/dobyone/test2",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/dobyone/test2"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
+>>>>>>> master
     "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
@@ -195,8 +213,13 @@
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
     "ProjectVersion": "2017.2.517.0",
+<<<<<<< HEAD
     "Namespace": "TestProject118",
     "AssemblyName": "TestProject118",
+=======
+    "Namespace": "TestProject117",
+    "AssemblyName": "TestProject117",
+>>>>>>> master
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "InDevelopmentFiles": [],
