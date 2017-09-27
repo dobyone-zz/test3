@@ -7,7 +7,7 @@
     "SkipDeleteElementPrompt": false,
     "HideFindExpressionWelcome": false,
     "MenuHoldTime": 1.0,
-    "SilverlightConnectTimeout": 60000,
+    "SilverlightConnectTimeout": 600001,
     "BaseClassName": "BaseWebAiiTest",
     "UrlRecordMode": 2,
     "HighlightBorderColor": -65536,
